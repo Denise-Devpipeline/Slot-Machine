@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: "Lato", sans-serif;
+}
+
+.slot-container {
+  width: 100%;
+  border-color: brown;
+}
+
+.header-container {
+}
+
+.message-container {
+}
+
+.labels-container {
+  border-color: brown;
+  font-size: 80px;
+}
